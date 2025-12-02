@@ -46,4 +46,4 @@ Covers IT infrastructure, applications, and data assets.
 
 ---
 
-Contact: security@company.com
+
