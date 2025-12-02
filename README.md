@@ -28,22 +28,27 @@ Each lab contains its own **README** with links to its specific exercises and ex
 
 ```mermaid
 flowchart TD
-    A[GRC_Practical] --> B[Lab01: Security Policies]
+    A[Applied GRC Labs Portfolio] 
+
+    %% Lab01: Security Policies
+    A --> B[Lab01: Security Policies]
+    B --> B1[CISM Domain 3: Program Development & Management]
+    B --> B2[ISO27001 Controls: A.5 Policies, A.6 Organization]
+    B --> B3[Outputs: Policy Documents & Starter Kit]
+
+    %% Lab02: Risk Assessment & Audits
     A --> C[Lab02: Risk Assessment & Audits]
+    C --> C1[CISM Domain 2: Risk Management]
+    C --> C2[ISO27001 Controls: A.8 Asset Management, A.12 Risk Assessment]
+    C --> C3[Outputs: Redacted Audit Findings, Risk Reports]
+
+    %% Lab03: End-User Awareness & Training
     A --> D[Lab03: End-User Awareness & Training]
+    D --> D1[CISM Domain 3: Program Development & Management]
+    D --> D2[ISO27001 Controls: A.7 Human Resource Security, A.18 Compliance]
+    D --> D3[Outputs: Training Materials, Metrics & Engagement Reports]
 
-    B --> B1[Policy Creation]
-    B --> B2[Policy Documentation]
-    B --> B3[Starter Kit for Small Business]
-
-    C --> C1[Framework-based Risk Assessment]
-    C --> C2[Audit Planning & Execution]
-    C --> C3[Redacted Findings]
-
-    D --> D1[Awareness Content Development]
-    D --> D2[Guides & Videos]
-    D --> D3[Behavior Influence & Metrics]
-
+    %% Styling
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333
     style C fill:#bbf,stroke:#333
