@@ -11,10 +11,11 @@ This lab demonstrates the creation of **sample information security policies** s
 
 ## 🛠 Included Policies
 
-1. **Acceptable Use Policy (AUP)** – Guidelines for acceptable use of company IT assets.
-2. **Data Classification Policy** – Defines how to categorize, label, and handle sensitive information.
-3. **Remote Work Security Policy** – Security rules for working remotely or using personal devices.
-4. **Incident Response Policy** – Steps for reporting and handling security incidents.
+1. [Policy 1 – Acceptable Use Policy](Policy1_Acceptable_Use.md) – Defines proper use of IT resources.
+2. [Policy 2 – Access Control Policy](Policy2_Access_Control.md) – Guidelines for account management, privileges, and segregation of duties.
+3. [Policy 3 – Data Classification & Handling Policy](Policy3_Data_Classification.md) – Procedures for labeling, handling, and protecting information.
+4. [Policy 4 – Incident Reporting Policy](Policy4_Incident_Reporting.md) – Defines reporting procedures, escalation, and responsibilities.
+
 
 ## 📄 Policy Highlights
 
@@ -33,12 +34,7 @@ Each policy includes:
 3. Implement policies within your security governance program.
 4. Use as examples to demonstrate practical GRC experience.
 
-## 📂 Files
 
-- `Acceptable_Use_Policy.md`
-- `Data_Classification_Policy.md`
-- `Remote_Work_Security_Policy.md`
-- `Incident_Response_Policy.md`
 
 ---
 
