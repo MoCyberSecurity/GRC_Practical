@@ -26,4 +26,26 @@ Each lab contains its own **README** with links to its specific exercises and ex
 
 ---
 
-*For feedback, collaboration, or consulting inquiries, reach out at:* **security@company.com**
+```mermaid
+flowchart TD
+    A[Applied GRC Labs Portfolio] --> B[Lab01: Security Policies]
+    A --> C[Lab02: Risk Assessment & Audits]
+    A --> D[Lab03: End-User Awareness & Training]
+
+    B --> B1[Policy Creation]
+    B --> B2[Policy Documentation]
+    B --> B3[Starter Kit for Small Business]
+
+    C --> C1[Framework-based Risk Assessment]
+    C --> C2[Audit Planning & Execution]
+    C --> C3[Redacted Findings]
+
+    D --> D1[Awareness Content Development]
+    D --> D2[Guides & Videos]
+    D --> D3[Behavior Influence & Metrics]
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333
+    style C fill:#bbf,stroke:#333
+    style D fill:#bbf,stroke:#333
+```
