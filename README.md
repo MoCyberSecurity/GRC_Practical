@@ -30,6 +30,9 @@ Each lab contains its own **README** with links to its specific exercises and ex
 flowchart TD
     A[Applied GRC Labs Portfolio] 
 
+   flowchart TD
+    A[Applied GRC Labs Portfolio] 
+
     %% Lab01: Security Policies
     A --> B[Lab01: Security Policies]
     B --> B1[CISM Domain 3: Program Development & Management]
