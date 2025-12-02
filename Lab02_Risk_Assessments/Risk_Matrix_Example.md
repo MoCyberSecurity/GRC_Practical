@@ -19,4 +19,4 @@ Visualise likelihood vs impact for prioritised risks.
 
 ---
 
-Contact: security@company.com
+
