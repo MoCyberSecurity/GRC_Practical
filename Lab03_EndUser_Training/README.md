@@ -9,12 +9,12 @@ This lab demonstrates **practical end-user cybersecurity awareness and training 
 - Measure user engagement and knowledge retention.
 - Showcase applied GRC skills for interviews or portfolio.
 
-## 🛠 Included Templates & Examples
+## 🛠 Lab Sections & Examples
 
-1. **Awareness Training Guide** – Step-by-step program for new hires or staff.
-2. **Phishing Simulation Example** – Mock phishing email and evaluation method.
-3. **Security Poster Examples** – Visual reminders for key security practices.
-4. **Training Quiz Example** – Test knowledge and reinforce learning.
+1. [Awareness Training Guide](Awareness_Training_Guide.md) – Step-by-step program for staff.
+2. [Phishing Simulation Example](Phishing_Simulation_Example.md) – Mock phishing email and evaluation method.
+3. [Security Poster Examples](Security_Poster_Examples.md) – Visual reminders for key security practices.
+4. [Training Quiz Example](Training_Quiz_Example.md) – Test knowledge and reinforce learning.
 
 ---
 
