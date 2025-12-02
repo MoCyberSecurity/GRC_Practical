@@ -1,4 +1,4 @@
-# Applied GRC Labs – Portfolio
+# GRC_Practical
 
 Welcome to my **Applied GRC Labs**, showcasing practical, real-world exercises aligned with **ISO 27001**, CISM domains, and general governance, risk, and compliance (GRC) principles. These labs demonstrate hands-on skills suitable for interviews, client projects, and professional portfolio building.
 
