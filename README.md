@@ -28,7 +28,7 @@ Each lab contains its own **README** with links to its specific exercises and ex
 
 ```mermaid
 flowchart TD
-    A[Applied GRC Labs Portfolio] --> B[Lab01: Security Policies]
+    A[GRC_Practical] --> B[Lab01: Security Policies]
     A --> C[Lab02: Risk Assessment & Audits]
     A --> D[Lab03: End-User Awareness & Training]
 
