@@ -11,10 +11,11 @@ This lab demonstrates **hands-on risk assessment and audit processes** aligned w
 
 ## 🛠 Included Templates & Examples
 
-1. **Risk Assessment Template** – Step-by-step assessment for IT systems.
-2. **Sample Audit Findings** – Redacted, realistic audit report with recommendations.
-3. **Risk Matrix Example** – Visual representation of likelihood vs impact.
-4. **Risk Treatment Plan Example** – Mitigation, transfer, acceptance, or avoidance plan.
+1. [Audit Planning & Checklist](Audit_Planning_Checklist.md) – Template and approach for conducting audits.
+2. [Sample Risk Assessment](Sample_Risk_Assessment.md) – Example of identifying, scoring, and prioritizing risks.
+3. [Audit Findings & Recommendations](Audit_Findings_Recommendations.md) – Documenting results and suggested actions.
+4. [Remediation Tracking](Remediation_Tracking.md) – Example of tracking risk mitigation efforts over time.
+
 
 ---
 
