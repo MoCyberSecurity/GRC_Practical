@@ -24,4 +24,3 @@ ISO 27001 A.7.2.1, A.9.1.1
 
 ---
 
-For questions: security@company.com
