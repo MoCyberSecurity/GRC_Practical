@@ -1,26 +1,33 @@
 # Acceptable Use Policy (AUP)
 
 ## Purpose
-Define acceptable use of IT resources to protect company assets and data.
+Ensure responsible use of IT resources and protect company data from misuse or compromise.
 
 ## Scope
-Applies to all employees, contractors, and third-party users accessing company systems.
+Applies to all employees, contractors, and temporary staff using company devices, network, or cloud systems.
 
 ## Roles & Responsibilities
-- **Users:** Follow policy guidelines, report violations.
-- **IT Team:** Monitor compliance, provide support.
-- **Management:** Enforce policy, approve exceptions.
+- **Users:** Comply with policy, report any suspicious activity.
+- **IT Team:** Monitor system activity, provide support, investigate violations.
+- **Management:** Approve exceptions, enforce compliance.
 
-## Guidelines
-- Only authorised devices may connect to company systems.
-- Company email and systems must be used for work-related purposes.
-- Prohibited actions: unauthorised software installation, bypassing security controls, accessing restricted data.
+## Guidelines & Examples
+- **Authorized Devices:** Only company-issued laptops or approved BYOD devices may access internal systems.
+- **Email & Messaging:** Use company email for business communication. Personal social media or gaming accounts must not use company systems.
+- **Prohibited Actions:**
+  - Installing unauthorized software (e.g., torrent clients, unlicensed software).
+  - Accessing sensitive financial or HR files without authorization.
+  - Sharing passwords or credentials.
+- **Monitoring:** Systems will be monitored for compliance; employees may receive automated alerts or audits.
+
+### Real-World Scenario
+- An employee attempts to install a new VPN tool to bypass firewall restrictions. IT detects the installation and sends a reminder to uninstall it; repeated violations escalate to management.
 
 ## Enforcement
-Violations may lead to disciplinary actions or termination.
+Non-compliance may lead to warnings, suspension, or termination.
 
 ## References
-ISO 27001 A.7.2.1, A.9.1.1
+ISO 27001: A.7.2.1, A.9.1.1
 
 ---
 
