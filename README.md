@@ -6,7 +6,7 @@ Welcome to my **Applied GRC Labs**, showcasing practical, real-world exercises a
 
 | Lab | Focus | Description |
 |-----|-------|-------------|
-| [Lab01 – Writing Information Security Policies](Lab01/README.md) | Policy Development | Creation of actionable, real-world security policies suitable for small businesses or enterprise environments. Includes Acceptable Use, Access Control, Data Classification, and Incident Reporting policies. |
+| [Lab01 – Writing Information Security Policies](Lab01_Policies_Starter_Kit/README.md) | Policy Development | Creation of actionable, real-world security policies suitable for small businesses or enterprise environments. Includes Acceptable Use, Access Control, Data Classification, and Incident Reporting policies. |
 | [Lab02 – Risk Assessment & Audit Exercises](Lab02/README.md) | Risk Management | Performing practical audits and risk assessments using frameworks such as NIST CSF, CIS Controls, and ISO 27001. Includes examples of risk evaluation, mitigation recommendations, and redacted audit findings. |
 | [Lab03 – End-User Awareness & Training Materials](Lab03/README.md) | Awareness & Training | Development of cybersecurity awareness programs, including guides, videos, and interactive materials designed to influence positive security behavior among employees. |
 
