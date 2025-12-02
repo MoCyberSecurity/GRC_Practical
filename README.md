@@ -24,12 +24,9 @@ Each lab contains its own **README** with links to its specific exercises and ex
 - [Lab02 – Risk Assessment & Audit Exercises](Lab02/README.md)  
 - [Lab03 – End-User Awareness & Training Materials](Lab03/README.md)
 
----
+
 
 ```mermaid
-flowchart TD
-    A[Applied GRC Labs Portfolio] 
-
    flowchart TD
     A[Applied GRC Labs Portfolio] 
 
