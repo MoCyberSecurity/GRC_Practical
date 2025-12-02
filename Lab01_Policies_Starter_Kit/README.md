@@ -42,4 +42,4 @@ Each policy includes:
 
 ---
 
-For questions or feedback: [Your Contact Info]
+
